@@ -83,7 +83,7 @@
   {
     "image":"p13.png",
     "title":"Amazing Events",
-    "description":"Proyecto final del curso de Front End VueJS impartido por MindHub. Plataforma digital permite a los usuarios conocer información acerca de los eventos organizados por la empresa Amazing Events, cuenta con filtros de categoría y búsqueda.",
+    "description":"Proyecto final del curso de Frontend VueJS impartido por MindHub. Plataforma digital permite a los usuarios conocer información acerca de los eventos organizados por la empresa Amazing Events, cuenta con filtros de categoría y búsqueda.",
     "technologies": [ "html", "css", "javascript", "bootstrap" ],
     "date": "Feb. 13, 2023",
     "urlDeploy":"https://scodify.github.io/Amazing-Events/public/index.html",
@@ -101,7 +101,7 @@
   {
     "image":"p11.png",
     "title":"Mighty Ducks Hockey League",
-    "description":"Proyecto del curso de Front End impartido por MindHub. La página de Mighty Ducks Hockey League es una plataforma digital que permite a los usuarios conocer todo lo relacionado con la liga de hockey Mighty Ducks.",
+    "description":"Proyecto del curso de Fronend impartido por MindHub. La página de Mighty Ducks Hockey League es una plataforma digital que permite a los usuarios conocer todo lo relacionado con la liga de hockey Mighty Ducks.",
     "technologies": [ "html", "css", "bootstrap" ],
     "date": "Ene. 20, 2023",
     "urlDeploy":"https://scodify.github.io/MDHL/",

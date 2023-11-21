@@ -2,7 +2,7 @@ import React, { useState, useEffect } from "react"
 import './styles.css'
 
 function index() {
-  const [data, setData] = useState([]);
+  const [data, setData] = useState([])
 
   async function getDataYoutube() {
     try {
@@ -19,8 +19,8 @@ function index() {
   }, [])
 
   useEffect(() => {
-    document.title = "SoftCodify | YouTube";
-  }, []);
+    document.title = "SoftCodify | YouTube"
+  }, [])
   return (
     <>
       <h6 className="container text-start my-5 text-primary-emphasis">Cantidad de videos creados: {data.length}</h6>
@@ -35,7 +35,7 @@ function index() {
                 <p className="card-text">{item.description}</p>
               </div>
               <div className="card-footer bg-transparent border-success text-end">
-                <small className="text-success-emphasis">{item.date}</small>
+                <small className="text-success-emphasis"><span className="font-monospace">{item.date}</span></small>
               </div>
             </div>
 

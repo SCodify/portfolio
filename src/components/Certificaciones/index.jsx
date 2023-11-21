@@ -2,7 +2,7 @@ import React, { useState, useEffect } from "react"
 import './styles.css'
 
 function index() {
-  const [data, setData] = useState([]);
+  const [data, setData] = useState([])
 
   async function getDataCertifications() {
     try {
@@ -19,8 +19,8 @@ function index() {
   }, [])
 
   useEffect(() => {
-    document.title = "SoftCodify | Certificaciones";
-  }, []);
+    document.title = "SoftCodify | Certificaciones"
+  }, [])
   return (
     <>
       <section className="certificaciones-section container my-5 p-3 bg-body rounded shadow-sm bg-body-tertiary border border-1">
@@ -33,7 +33,7 @@ function index() {
                 <strong className="d-block text-gray-dark">{item.institution}</strong>
                 <span className="d-flex gap-3 justify-content-between">
                   <span>{item.title}</span>
-                  <span>{item.date}</span>
+                  <span className="font-monospace">{item.date}</span>
                 </span>
               </p>
             </a>

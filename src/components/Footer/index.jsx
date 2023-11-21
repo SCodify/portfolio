@@ -3,10 +3,10 @@ import './styles.css'
 
 function index() {
   function getCurrentYear() {
-    const currentDate = new Date();
-    const currentYear = currentDate.getFullYear();
+    const currentDate = new Date()
+    const currentYear = currentDate.getFullYear()
   
-    return currentYear;
+    return currentYear
   }
   
   return (

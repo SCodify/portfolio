@@ -42,7 +42,7 @@ function index() {
                     ))
                   }
                 </li>
-                <li className="list-group-item d-flex flex-wrap gap-2"><small>Fecha de creación: {item.date}</small></li>
+                <li className="list-group-item d-flex flex-wrap gap-2"><small>Fecha de creación: <span className="text-success-emphasis font-monospace">{item.date}</span></small></li>
               </ul>
               <div className="url-container card-body">
                 {

@@ -2,7 +2,7 @@ import React, { useState, useEffect } from "react"
 import './styles.css'
 
 function index() {
-  const [data, setData] = useState([]);
+  const [data, setData] = useState([])
 
   async function getDataPersonal() {
     try {
@@ -15,17 +15,15 @@ function index() {
   }
 
   function calculateDays(date) {
-    const dateProvided = new Date(date);
+    const dateProvided = new Date(date)
     
-    const currentDate = new Date();
+    const currentDate = new Date()
   
-    // Calcular la diferencia en milisegundos
-    const difference = currentDate - dateProvided;
+    const difference = currentDate - dateProvided
   
-    // Convertir la diferencia a días
-    const pastDays = Math.floor(difference / (1000 * 60 * 60 * 24));
+    const pastDays = Math.floor(difference / (1000 * 60 * 60 * 24))
   
-    return pastDays;
+    return pastDays
   }
 
   useEffect(() => {
@@ -33,8 +31,8 @@ function index() {
   }, [])
 
   useEffect(() => {
-    document.title = "SoftCodify | Home";
-  }, []);
+    document.title = "SoftCodify | YouTube"
+  }, [])
   return (
     <>
       <header className="container d-flex flex-column justify-content-center align-items-center py-5 gap-3">
