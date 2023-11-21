@@ -1,0 +1,39 @@
+[
+  {
+    "url": "https://www.youtube.com/embed/eD6BzRh1VLg?si=rV7zDTQqNTt_F2Sl",
+    "title": "Implementar Tailwind y Bootstrap en proyecto React + Vite",
+    "description": "Explicación de cómo integrar de manera efectiva Tailwind CSS, Bootstrap y Bootstrap Icons en proyectos React utilizando Vite como nuestro bundler.",
+    "date": "Nov. 16, 2023"
+  },
+  {
+    "url": "https://www.youtube.com/embed/O8ftAnwUcxo?si=rnZKr33L3h8EB2bl",
+    "title": "Creando carta virtual para un restobar",
+    "description": "Videotutorial de desarrollo de página web utilizando HTML y CSS, y también añadiremos interactividad con JavaScript.",
+    "date": "May. 2, 2023"
+  },
+  {
+    "url": "https://www.youtube.com/embed/CvzEohEXabE?si=Fvqknt-ubAwvVXSd",
+    "title": "Instalación y configuración de Inkscape 1.0.2",
+    "description": "Video explicativo de como instalar y configurar una herramienta de diseño llamada Inkscape.",
+    "date": "Abr. 16, 2021"
+  },
+  {
+    "url": "https://www.youtube.com/embed/eYLgJAIPuCw?si=iEhXNpmvwDxsPQN3",
+    "title": "Como guardar archivos de forma segura con KeePass",
+    "description": "Tutorial de como almacenar todo tipo de archivo de forma segura con KeePass.",
+    "date": "Nov. 16, 2023"
+  },
+  {
+    "url": "https://www.youtube.com/embed/cFUlJe4VXpg?si=VqT4ODLIBVXuAR3X",
+    "title": "KeePass: funcionamiento, configuración y complementos",
+    "description": "Videotutorial en el que se profundiza la explicación de las funcionalidades de KeePass.",
+    "date": "Nov. 16, 2023"
+  },
+  {
+    "url": "https://www.youtube.com/embed/XpkTNfQoVRE?si=886ABskQDpfCcIp4",
+    "title": "Como guardar contraseñas de forma segura con KeePass",
+    "description": "Videotutorial en el que explico como organizar y gestionar contraseñas dentro de una base de datos encriptada y cifrada por medio de KeePass.",
+    "date": "Jul. 31, 2020"
+  }
+ 
+]

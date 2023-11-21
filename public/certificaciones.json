@@ -1,0 +1,163 @@
+[
+  {
+    "image": "mindhub.jpg",
+    "institution": "MindHub LA ",
+    "title": "Desarrollador Full Stack MERN",
+    "date": "Sept. 2023",
+    "url": "https://www.credly.com/badges/27023e3f-1751-4826-8b3e-1565c6f5f1db/linked_in_profile"
+  },
+  {
+    "image": "platzi.jpg",
+    "institution": "Platzi",
+    "title": "Curso Práctico de JavaScript",
+    "date": "Abr. 2023",
+    "url": "https://platzi.com/p/cledesma92/curso/3271-javascript-practico/diploma/detalle/"
+  },
+  {
+    "image": "platzi.jpg",
+    "institution": "Platzi",
+    "title": "Curso de Fundamentos de Sass",
+    "date": "Abr. 2023",
+    "url": "https://platzi.com/p/cledesma92/curso/6867-sass/diploma/detalle/"
+  },
+  {
+    "image": "mindhub.jpg",
+    "institution": "MindHub LA",
+    "title": "Desarrollador Web Front End",
+    "date": "Mar. 2023",
+    "url": "https://www.credly.com/badges/f021a708-7e65-47ba-bafb-10a714837eb3/linked_in_profile"
+  },
+  {
+    "image": "coderhouse.jpg",
+    "institution": "Coderhouse",
+    "title": "Desarrollador JavaScript",
+    "date": "Ene. 2023",
+    "url": "https://www.coderhouse.com/certificados/63eb919c2f1b86000e8d9299"
+  },
+  {
+    "image": "platzi.jpg",
+    "institution": "Platzi",
+    "title": "Curso Profesional de Git y GitHub",
+    "date": "Abr. 2022",
+    "url": "https://platzi.com/p/cledesma92/course/1557-git-github/diploma/detalle/"
+  },
+  {
+    "image": "platzi.jpg",
+    "institution": "Platzi",
+    "title": "Curso Práctico de Product Owner",
+    "date": "Mar. 2022",
+    "url": "https://platzi.com/p/cledesma92/curso/2692-course/diploma/detalle/"
+  },
+  {
+    "image": "platzi.jpg",
+    "institution": "Platzi",
+    "title": "Curso Práctico de Fundamentos Owner",
+    "date": "Mar. 2022",
+    "url": "https://platzi.com/p/cledesma92/curso/2618-product-owner/diploma/detalle/"
+  },
+  {
+    "image": "platzi.jpg",
+    "institution": "Platzi",
+    "title": "Curso Profesional de Scrum",
+    "date": "Feb. 2022",
+    "url": "https://platzi.com/p/cledesma92/curso/1750-scrum/diploma/detalle/"
+  },
+  {
+    "image": "platzi.jpg",
+    "institution": "Platzi",
+    "title": "Curso de Historias de Usuario en Scrum",
+    "date": "Feb. 2022",
+    "url": "https://platzi.com/p/cledesma92/course/2444-react/diploma/detalle/"
+  },
+  {
+    "image": "platzi.jpg",
+    "institution": "Platzi",
+    "title": "Curso de Introducción a React.js",
+    "date": "Ene. 2022",
+    "url": "https://platzi.com/p/cledesma92/course/2444-react/diploma/detalle/"
+  },
+  {
+    "image": "platzi.jpg",
+    "institution": "Platzi",
+    "title": "Curso Profesional de JavaScript",
+    "date": "Nov. 2021",
+    "url": "https://platzi.com/p/cledesma92/course/1642-javascript-profesional/diploma/detalle/"
+  },
+  {
+    "image": "platzi.jpg",
+    "institution": "Platzi",
+    "title": "Curso de JavaScript Engine (V8)",
+    "date": "Sept. 2021",
+    "url": "https://platzi.com/p/cledesma92/course/1798-javascript-navegador/diploma/detalle/"
+  },
+  {
+    "image": "platzi.jpg",
+    "institution": "Platzi",
+    "title": "Curso de Asincronismo con JavaScript",
+    "date": "Ago. 2021",
+    "url": ""
+  },
+  {
+    "image": "platzi.jpg",
+    "institution": "Platzi",
+    "title": "Curso de Closures y Scope en JavaScript",
+    "date": "Ago. 2021",
+    "url": "https://platzi.com/p/cledesma92/course/1789-asincronismo-js/diploma/detalle/"
+  },
+  {
+    "image": "platzi.jpg",
+    "institution": "Platzi",
+    "title": "Curso Práctico de JavaScript",
+    "date": "Jul. 2021",
+    "url": "https://platzi.com/p/cledesma92/curso/1807-course/diploma/detalle/"
+  },
+  {
+    "image": "platzi.jpg",
+    "institution": "Platzi",
+    "title": "Curso de ECMAScript 6+",
+    "date": "Jul. 2021",
+    "url": "https://platzi.com/p/cledesma92/curso/1815-ecmascript-6/diploma/detalle/"
+  },
+  {
+    "image": "platzi.jpg",
+    "institution": "Platzi",
+    "title": "Fundamentos de JavaScript",
+    "date": "Jul. 2021",
+    "url": "https://platzi.com/p/cledesma92/curso/1339-course/diploma/detalle/"
+  },
+  {
+    "image": "platzi.jpg",
+    "institution": "Platzi",
+    "title": "Curso Básico de JavaScript",
+    "date": "Jun. 2021",
+    "url": "https://platzi.com/p/cledesma92/curso/1814-basico-javascript/diploma/detalle/"
+  },
+  {
+    "image": "platzi.jpg",
+    "institution": "Platzi",
+    "title": "Curso de Front End Developer",
+    "date": "Jun. 2021",
+    "url": "https://platzi.com/p/cledesma92/curso/1640-frontend-developer/diploma/detalle/"
+  },
+  {
+    "image": "ucdavis.jpg",
+    "institution": "UC, Davis",
+    "title": "Introduction to Web Development",
+    "date": "Nov. 2020",
+    "url": "https://www.coursera.org/account/accomplishments/verify/NSJDTG36SAX5"
+  },
+  {
+    "image": "activatecongoogle.jpg",
+    "institution": "Google Actívate",
+    "title": "Introducción al Desarrollo Web II",
+    "date": "Sept. 2020",
+    "url": "https://drive.google.com/file/d/1RlFYL4VrgOgU0qladpOHAYWM2Dbnm8PY/view?usp=sharing"
+  },
+  {
+    "image": "activatecongoogle.jpg",
+    "institution": "Google Actívate",
+    "title": "Introducción al Desarrollo Web I",
+    "date": "Ago. 2020",
+    "url": "https://drive.google.com/file/d/1I33iGn5ii6k0FrwJ1enNVCgqRW0ytZ8i/view?usp=sharing"
+  }
+]

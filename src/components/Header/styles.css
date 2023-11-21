@@ -1,0 +1,19 @@
+header {
+  min-height: calc(100vh - 57px - 124px);
+}
+
+.text-container {
+  display: flex;
+  flex-direction: column;
+  min-height: 100%;
+}
+
+@media(max-width: 768px) {
+  .header-container {
+    flex-direction: column;    
+  }
+
+  .profile-picture{
+    margin: 0 20%;
+  }
+}

@@ -1,0 +1,30 @@
+.proyectos-section {
+  min-height: calc(100vh - 57px - 124px);
+  display: grid;
+  grid-template-columns: repeat(4, 1fr);
+  gap: 32px;
+  align-items: flex-start;
+}
+
+.url-container {
+  max-height: 56px;
+}
+
+@media (max-width: 1400px) {
+  .proyectos-section {
+    grid-template-columns: repeat(3, 1fr);
+  }
+}
+
+
+@media (max-width: 992px) {
+  .proyectos-section {
+    grid-template-columns: 1fr 1fr;
+  }
+}
+
+@media (max-width: 576px) {
+  .proyectos-section {
+    grid-template-columns:  1fr;
+  }
+}
