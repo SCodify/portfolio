@@ -61,11 +61,6 @@ function index() {
             <span className="badge rounded-pill text-bg-primary bg-gradient">total: {data && data.tecnologias && data.tecnologias.length}</span>
           </div>
         </div>
-
-        {/* <div className="d-flex flex-column align-items-center p-3 my-5 bg-purple rounded-4 shadow-sm gap-3">
-          <span className="text-white">Social Media</span>
-          
-        </div> */}
       </header>
     </>
   )

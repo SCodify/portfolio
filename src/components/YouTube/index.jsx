@@ -35,7 +35,7 @@ function index() {
                 <p className="card-text">{item.description}</p>
               </div>
               <div className="card-footer bg-transparent border-success text-end">
-                <small className="text-success-emphasis"><span className="font-monospace">{item.date}</span></small>
+                <small className="text-success-emphasis">{item.date}</small>
               </div>
             </div>
 

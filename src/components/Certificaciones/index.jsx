@@ -33,7 +33,7 @@ function index() {
                 <strong className="d-block text-gray-dark">{item.institution}</strong>
                 <span className="d-flex gap-3 justify-content-between">
                   <span>{item.title}</span>
-                  <span className="font-monospace">{item.date}</span>
+                  <span className="text-success-emphasis">{item.date}</span>
                 </span>
               </p>
             </a>
