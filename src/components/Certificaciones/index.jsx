@@ -17,6 +17,10 @@ function index() {
   useEffect(() => {
     getDataCertifications()
   }, [])
+
+  useEffect(() => {
+    document.title = "SoftCodify | Certificaciones";
+  }, []);
   return (
     <>
       <section className="certificaciones-section container my-5 p-3 bg-body rounded shadow-sm bg-body-tertiary border border-1">

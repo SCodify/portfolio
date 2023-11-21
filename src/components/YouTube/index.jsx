@@ -17,6 +17,10 @@ function index() {
   useEffect(() => {
     getDataYoutube()
   }, [])
+
+  useEffect(() => {
+    document.title = "SoftCodify | YouTube";
+  }, []);
   return (
     <>
       <h6 className="container text-start my-5 text-primary-emphasis">Cantidad de videos creados: {data.length}</h6>

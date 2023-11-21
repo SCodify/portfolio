@@ -17,6 +17,10 @@ function index() {
   useEffect(() => {
     getDataProjects()
   }, [])
+
+  useEffect(() => {
+    document.title = "SoftCodify | Proyectos";
+  }, []);
   return (
     <>
       <h6 className="container text-start my-5 text-primary-emphasis">Cantidad de proyectos creados: {data.length}</h6>
