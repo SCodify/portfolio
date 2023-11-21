@@ -31,6 +31,10 @@ function index() {
   useEffect(() => {
     getDataPersonal()
   }, [])
+
+  useEffect(() => {
+    document.title = "SoftCodify | Home";
+  }, []);
   return (
     <>
       <header className="container d-flex flex-column justify-content-center align-items-center py-5 gap-3">

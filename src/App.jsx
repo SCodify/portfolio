@@ -6,7 +6,7 @@ import { useLocation } from 'react-router-dom';
 
 import Navbar from './components/Navbar'
 
-import Header from "./components/Header";
+import Home from "./components/Home";
 import Proyectos from "./components/Proyectos";
 import YouTube from "./components/YouTube";
 import Certificaciones from "./components/Certificaciones";
@@ -23,7 +23,7 @@ function App() {
     <>
       <Navbar />
       <Routes>
-        <Route path="/" element={<Header />} />
+        <Route path="/" element={<Home />} />
         <Route path="/proyectos" element={<Proyectos />} />
         <Route path="/youtube" element={<YouTube />} />
         <Route path="/certificaciones" element={<Certificaciones />} />
