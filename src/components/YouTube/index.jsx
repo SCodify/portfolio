@@ -6,7 +6,7 @@ function index() {
 
   async function getDataYoutube() {
     try {
-      let response = await fetch("http://localhost:5173/youtube.json")
+      let response = await fetch("https://softcodify.netlify.app/youtube.json")
       const youtube = await response.json()
       setData(youtube)
     } catch (error) {

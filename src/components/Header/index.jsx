@@ -6,7 +6,7 @@ function index() {
 
   async function getDataPersonal() {
     try {
-      let response = await fetch("http://localhost:5173/personal.json")
+      let response = await fetch("https://softcodify.netlify.app/personal.json")
       const personal = await response.json()
       setData(personal)
     } catch (error) {

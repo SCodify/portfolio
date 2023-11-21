@@ -6,7 +6,7 @@ function index() {
 
   async function getDataProjects() {
     try {
-      let response = await fetch("http://localhost:5173/proyectos.json")
+      let response = await fetch("https://softcodify.netlify.app/proyectos.json")
       const proyectos = await response.json()
       setData(proyectos)
     } catch (error) {

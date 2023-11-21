@@ -6,7 +6,7 @@ function index() {
 
   async function getDataCertifications() {
     try {
-      let response = await fetch("http://localhost:5173/certificaciones.json")
+      let response = await fetch("https://softcodify.netlify.app/certificaciones.json")
       const certificaciones = await response.json()
       setData(certificaciones)
     } catch (error) {
