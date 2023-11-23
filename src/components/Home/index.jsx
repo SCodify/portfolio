@@ -31,7 +31,7 @@ function index() {
   }, [])
 
   useEffect(() => {
-    document.title = "SoftCodify | YouTube"
+    document.title = "SoftCodify | Home"
   }, [])
   return (
     <>
