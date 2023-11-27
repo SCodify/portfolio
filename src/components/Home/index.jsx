@@ -26,6 +26,10 @@ function index() {
     return pastDays
   }
 
+  
+  console.log('data: ', data)
+  
+
   useEffect(() => {
     getDataPersonal()
   }, [])
@@ -36,7 +40,7 @@ function index() {
   return (
     <>
       <header className="container d-flex flex-column justify-content-center align-items-center py-5 gap-3">
-        {data ?
+        {data.length !== 0 ?
           <>
             <div className="header-container container-fluid d-flex mb-5 flex-lg-row gap-5 align-items-center">
 
