@@ -16,13 +16,13 @@ function index() {
 
   function calculateDays(date) {
     const dateProvided = new Date(date)
-    
+
     const currentDate = new Date()
-  
+
     const difference = currentDate - dateProvided
-  
+
     const pastDays = Math.floor(difference / (1000 * 60 * 60 * 24))
-  
+
     return pastDays
   }
 
@@ -36,31 +36,41 @@ function index() {
   return (
     <>
       <header className="container d-flex flex-column justify-content-center align-items-center py-5 gap-3">
-        <div className="header-container container-fluid d-flex mb-5 flex-lg-row gap-5 align-items-center">
-
-          <div className="col-xl-2 col-lg-3 col-md-4 d-flex flex-column justify-content-center gap-3 text-center">
-            <img src="/foto.png" className="profile-picture img-fluid rounded-circle border border-1 shadow-sm" alt="foto personal" />
-            <h3 className="nombre text-center m-0">{data.nombreCompleto}</h3 >
+        {data ?
+          <div className="d-flex justify-content-center my-5">
+            <div className="spinner-border" role="status">
+              <span className="visually-hidden">Loading...</span>
+            </div>
           </div>
+          :
+          <>
+            <div className="header-container container-fluid d-flex mb-5 flex-lg-row gap-5 align-items-center">
 
-          <div className="text-container p-4 rounded-3 bg-body-tertiary border border-1 shadow-sm">
-            <h4 className="text-body-secondary mb-3">{data.titulo}</h4>
-            <p className="pt-2">{data.descripcion}</p>
-            <p className="text-end mt-auto mb-0 pt-5">
-              <small className="text-body-secondary">Portfolio actualizado por última vez hace {calculateDays(data.ultimaActualizacion)} días</small>
-            </p>
-          </div>
-        </div>
+              <div className="col-xl-2 col-lg-3 col-md-4 d-flex flex-column justify-content-center gap-3 text-center">
+                <img src="/foto.png" className="profile-picture img-fluid rounded-circle border border-1 shadow-sm" alt="foto personal" />
+                <h3 className="nombre text-center m-0">{data.nombreCompleto}</h3 >
+              </div>
 
-        <div className="container-fluid d-flex flex-column align-items-center gap-3">
-          <h5>Tecnologías manejadas</h5>
-          <div className="d-flex flex-wrap justify-content-center gap-2">
-            {data && data.tecnologias && data.tecnologias.map((item, index) => 
-              <span key={index} className="badge rounded-pill text-bg-success bg-gradient">{item}</span>
-            )}
-            <span className="badge rounded-pill text-bg-primary bg-gradient">total: {data && data.tecnologias && data.tecnologias.length}</span>
-          </div>
-        </div>
+              <div className="text-container p-4 rounded-3 bg-body-tertiary border border-1 shadow-sm">
+                <h4 className="text-body-secondary mb-3">{data.titulo}</h4>
+                <p className="pt-2">{data.descripcion}</p>
+                <p className="text-end mt-auto mb-0 pt-5">
+                  <small className="text-body-secondary">Portfolio actualizado por última vez hace {calculateDays(data.ultimaActualizacion)} días</small>
+                </p>
+              </div>
+            </div>
+
+            <div className="container-fluid d-flex flex-column align-items-center gap-3">
+              <h5>Tecnologías manejadas</h5>
+              <div className="d-flex flex-wrap justify-content-center gap-2">
+                {data && data.tecnologias && data.tecnologias.map((item, index) =>
+                  <span key={index} className="badge rounded-pill text-bg-success bg-gradient">{item}</span>
+                )}
+                <span className="badge rounded-pill text-bg-primary bg-gradient">total: {data && data.tecnologias && data.tecnologias.length}</span>
+              </div>
+            </div>
+          </>
+        }
       </header>
     </>
   )

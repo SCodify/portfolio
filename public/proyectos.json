@@ -1,5 +1,14 @@
 [
   {
+    "image": "p23.png",
+    "title": "form-grupo-f",
+    "description": "Ejercicio grupal del curso de React impartido por la UTN. Formulario interactivo.",
+    "technologies": [ "react", "vite" ],
+    "date": "Nov. 15, 2023",
+    "urlDeploy": "https://formgrupof.netlify.app/",
+    "urlRepo": "https://github.com/SCodify/form-grupo-f"
+  },
+  {
     "image": "p22.png",
     "title": "myapp",
     "description": "Ejercicio N° 3 del curso de React impartido por la UTN. Simulación de tienda virtual.",
