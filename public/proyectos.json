@@ -1,5 +1,14 @@
 [
   {
+    "image": "p24.png",
+    "title": "taskmanager-grupo-f",
+    "description": "Ejercicio grupal del curso de React impartido por la UTN. Gestor de tareas con respaldo en localStorage.",
+    "technologies": [ "react", "vite" ],
+    "date": "Nov. 22, 2023",
+    "urlDeploy": "https://formgrupof.netlify.app/",
+    "urlRepo": "https://github.com/SCodify/grupo-f-taskmanager"
+  },
+  {
     "image": "p23.png",
     "title": "form-grupo-f",
     "description": "Ejercicio grupal del curso de React impartido por la UTN. Formulario interactivo.",
