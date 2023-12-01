@@ -1,7 +1,14 @@
 [
   {
+    "image": "utn.jpg",
+    "institution": "Universidad Tecnológica Nacional",
+    "title": "Desarrollador Web React JS",
+    "date": "Nov. 2023",
+    "url": "https://campus.argentinaprograma.utn.edu.ar/mod/customcert/view.php?id=89293&downloadown=1"
+  },
+  {
     "image": "mindhub.jpg",
-    "institution": "MindHub LA ",
+    "institution": "MindHub LA",
     "title": "Desarrollador Full Stack MERN",
     "date": "Sept. 2023",
     "url": "https://www.credly.com/badges/27023e3f-1751-4826-8b3e-1565c6f5f1db/linked_in_profile"

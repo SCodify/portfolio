@@ -26,10 +26,6 @@ function index() {
     return pastDays
   }
 
-  
-  console.log('data: ', data)
-  
-
   useEffect(() => {
     getDataPersonal()
   }, [])
