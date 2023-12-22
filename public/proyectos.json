@@ -1,5 +1,14 @@
 [
   {
+    "image": "p25.png",
+    "title": "Cabañas El Sauce",
+    "description": "Actualización de la página de “Cabañas El Sauce”. Se implementó un Back End para gestionar las encuestas de satisfacción. El sitio se encuentra en construcción.",
+    "technologies": [ "nodejs", "dotenv", "react", "vite", "express", "mongodb", "mongoose" ],
+    "date": "Dic. 21, 2023",
+    "urlDeploy": "https://elsaucecab.vercel.app/",
+    "urlRepo": ""
+  },
+  {
     "image": "p24.png",
     "title": "taskmanager-grupo-f",
     "description": "Ejercicio grupal del curso de React impartido por la UTN. Gestor de tareas con respaldo en localStorage.",
