@@ -1,5 +1,23 @@
 [
   {
+    "image": "p27.png",
+    "title": "WahtsApp WEB + ChatGPT",
+    "description": "Esta aplicación genera un código QR que al escanearlo convierte la bandeja de entrada de nuestra aplicación de WhatsApp en un Chatbot.",
+    "technologies": [ "nodejs", "dotenv", "whatsapp-web.js" ],
+    "date": "Dic. 23, 2023",
+    "urlDeploy": "",
+    "urlRepo": "https://github.com/SCodify/wpw"
+  },
+  {
+    "image": "p26.png",
+    "title": "GPT-BACK",
+    "description": "GPT-3, junto con NodeJS y Express, para crear una API REST utilizando la plataforma de OpenAI.",
+    "technologies": [ "nodejs", "dotenv", "express", "openai-api" ],
+    "date": "Dic. 23, 2023",
+    "urlDeploy": "",
+    "urlRepo": "https://github.com/SCodify/gpt-back"
+  },
+  {
     "image": "p25.png",
     "title": "Cabañas El Sauce",
     "description": "Actualización de la página de “Cabañas El Sauce”. Se implementó un Back End para gestionar las encuestas de satisfacción. El sitio se encuentra en construcción.",
