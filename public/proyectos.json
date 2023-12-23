@@ -11,7 +11,7 @@
   {
     "image": "p26.png",
     "title": "GPT-BACK",
-    "description": "GPT-3, junto con NodeJS y Express, para crear una API REST utilizando la plataforma de OpenAI.",
+    "description": "GPT-3.5-TURBO, junto con NodeJS y Express, para crear una API REST utilizando la plataforma de OpenAI.",
     "technologies": [ "nodejs", "dotenv", "express", "openai-api" ],
     "date": "Dic. 23, 2023",
     "urlDeploy": "",
