@@ -24,18 +24,47 @@
      inkscape:pageopacity="0.0"
      inkscape:pagecheckerboard="0"
      inkscape:deskcolor="#d1d1d1"
-     inkscape:zoom="12.484375"
-     inkscape:cx="0.3204005"
-     inkscape:cy="21.426783"
+     inkscape:zoom="24.96875"
+     inkscape:cx="9.9724656"
+     inkscape:cy="13.957447"
      inkscape:window-width="1920"
      inkscape:window-height="1009"
      inkscape:window-x="-8"
      inkscape:window-y="-8"
      inkscape:window-maximized="1"
      inkscape:current-layer="svg1" />
-  <path
-     fill-rule="evenodd"
-     d="M 3.1612952,23.609966 A 1.0762458,1.0762458 0 0 1 4.2375412,22.53372 H 25.762457 a 1.076246,1.076246 0 0 1 0,2.152492 H 4.2375412 a 1.0762458,1.0762458 0 0 1 -1.076246,-1.076246 m 0,-8.609967 a 1.0762458,1.0762458 0 0 1 1.076246,-1.076246 H 25.762457 a 1.076246,1.076246 0 0 1 0,2.152492 H 4.2375412 a 1.0762458,1.0762458 0 0 1 -1.076246,-1.076246 m 0,-8.6099669 A 1.0762458,1.0762458 0 0 1 4.2375412,5.3137862 H 25.762457 a 1.0762459,1.0762459 0 0 1 0,2.1524917 H 4.2375412 A 1.0762458,1.0762458 0 0 1 3.1612952,6.3900321"
-     id="path1-8"
-     style="fill:#ffc107;fill-opacity:1;stroke-width:1" />
+  <rect
+     style="fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:2;stroke-linejoin:round;stroke-dashoffset:0.200315"
+     id="rect6"
+     width="29.999998"
+     height="29.999998"
+     x="0"
+     y="0" />
+  <rect
+     style="fill:#2b3035;fill-opacity:1;stroke:none;stroke-width:2;stroke-linejoin:round;stroke-dashoffset:0.200315"
+     id="rect7"
+     width="23.67708"
+     height="2.9248283"
+     x="3.1612952"
+     y="5.313786"
+     rx="1.4624141"
+     ry="1.4624141" />
+  <rect
+     style="fill:#2b3035;fill-opacity:1;stroke:none;stroke-width:2;stroke-linejoin:round;stroke-dashoffset:0.200315"
+     id="rect10"
+     width="23.67708"
+     height="2.9248283"
+     x="3.161459"
+     y="13.537585"
+     rx="1.4624141"
+     ry="1.4624141" />
+  <rect
+     style="fill:#2b3035;fill-opacity:1;stroke:none;stroke-width:2;stroke-linejoin:round;stroke-dashoffset:0.200315"
+     id="rect11"
+     width="23.67708"
+     height="2.9248283"
+     x="3.1612949"
+     y="21.761383"
+     rx="1.4624141"
+     ry="1.4624141" />
 </svg>
