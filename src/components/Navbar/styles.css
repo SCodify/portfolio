@@ -1,3 +1,7 @@
 .bi-download::before {
   font-size: 1.2rem;
 }
+
+.navbar-toggler-icon {
+  background-image: url('list.svg') !important;
+}
