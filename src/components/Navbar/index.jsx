@@ -14,7 +14,7 @@ function index() {
         <div className="container-fluid">
           <Link className="navbar-brand" to="/">Portfolio</Link>
           <button className="navbar-toggler p-0 rounded-0 border-0" type="button" data-bs-toggle="offcanvas" data-bs-target="#offcanvasNavbar" aria-controls="offcanvasNavbar" aria-label="Toggle navigation">
-            <span className="navbar-toggler-icon"></span>
+            <img src="list.svg" alt="menu icon"/>
           </button>
           <div className="offcanvas offcanvas-end" tabIndex="-1" id="offcanvasNavbar" aria-labelledby="offcanvasNavbarLabel">
             <div className="offcanvas-header">
