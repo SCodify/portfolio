@@ -36,7 +36,7 @@ function index() {
                   <Link to="/certificaciones" onClick={handlerClose} className="nav-link">Certificaciones</Link>
                 </li>
                 <li className="nav-item">
-                  <a href="https://drive.google.com/file/d/1vjoa-V_PE0f_KOJEt5EPvCE98-fk_19W/view?usp=sharing" target="_blank" onClick={handlerClose} className="nav-link">Curriculum Vitae <i className="bi bi-download ps-2"></i></a>
+                  <a href="https://drive.google.com/file/d/11KKRj9ZmUJUBblM1xWAwDflg5tPyhQ1j/view?usp=sharing" target="_blank" onClick={handlerClose} className="nav-link">Curriculum Vitae <i className="bi bi-download ps-2"></i></a>
                 </li>
               </ul>
             </div>
